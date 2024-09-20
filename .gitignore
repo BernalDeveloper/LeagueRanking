@@ -1,0 +1,23 @@
+# Archivos compilados de Java
+*.class
+
+# Directorios de compilación
+/bin/
+/target/
+
+# Archivos generados por IntelliJ o Eclipse, si aplican
+*.idea/
+/*.iml
+*.classpath
+*.project
+
+# Archivos de configuración de VS Code
+.vscode/
+
+# Dependencias locales (Maven, Gradle)
+.m2/
+/.gradle/
+/build/
+
+# Archivos de sistema
+.DS_Store
